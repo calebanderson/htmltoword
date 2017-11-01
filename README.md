@@ -1,4 +1,5 @@
-# Ruby Html to word Gem 
+# THIS IS NOT THE OFFICIAL RELEASE, PLEASE GO TO https://github.com/karnov/htmltoword
+# Ruby Html to word Gem
 
 This simple gem allows you to create MS Word docx documents from simple html documents. This makes it easy to create dynamic reports and forms that can be downloaded by your users as simple MS Word docx files.
 
